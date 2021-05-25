@@ -1,2 +1,2 @@
 # customer-segmentation
-![costumer](https://user-images.githubusercontent.com/82250641/119453908-4b924100-bd0e-11eb-987e-e505d16e1074.png)
+![costumer01](https://user-images.githubusercontent.com/82250641/119455417-f6572f00-bd0f-11eb-9a2f-22a33027849b.png)
