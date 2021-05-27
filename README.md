@@ -22,3 +22,13 @@ The business historian, Richard S. Tedlow, identifies four stages in the evoluti
 - Explore the data
 - Cluster the data
 - Interpret the result
+
+
+### References
+Daqing C., Sai L.S, and Kun G., Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining (2012), Journal of Database Marketing and Customer Strategy Management
+
+K. Jarrod Millman and Michael Aivazis. Python for Scientists and Engineers(2011). Computing in Science & Engineering
+
+https://towardsdatascience.com/top-3-methods-for-handling-skewed-data-1334e0debf45
+
+https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/
